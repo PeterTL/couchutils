@@ -1,0 +1,1 @@
+{"_id":"06cf5eb1c44ba40f0c364401940009e9","_rev":"5-1b6dde0e423c6f9c48a399fe75c50724","created":"2012/04/28 10:18","author":"Peter","title":"Hallo, Welt!","text":"Dies ist der erste Blogeintrag in diesem Weblog. Das besondere daran? Dieses System wurde auf Basis von CouchDB implementiert!","category":"Allgemein","type":"entry"}
